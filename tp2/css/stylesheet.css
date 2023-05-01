@@ -1,0 +1,21 @@
+#main{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:2rem 20rem;
+    padding:2rem;
+}
+.selecteur{
+    border-color: rgb(74, 222, 156) !important;
+    font-size: large;
+    font-weight:400;
+}
+.label{
+    color:rgb(74, 222, 156)  ;
+    font-size: large;
+    font-weight: bold;
+}
+
+#div4{
+    padding: 2rem;
+   color: black;
+    border-color: rgb(74, 222, 156) !important;
+}
